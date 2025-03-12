@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/my-cybersecurity-game/static/css/main.e6c13ad2.css",
+    "main.js": "/my-cybersecurity-game/static/js/main.153b6cc0.js",
+    "static/js/453.57351f57.chunk.js": "/my-cybersecurity-game/static/js/453.57351f57.chunk.js",
+    "index.html": "/my-cybersecurity-game/index.html",
+    "main.e6c13ad2.css.map": "/my-cybersecurity-game/static/css/main.e6c13ad2.css.map",
+    "main.153b6cc0.js.map": "/my-cybersecurity-game/static/js/main.153b6cc0.js.map",
+    "453.57351f57.chunk.js.map": "/my-cybersecurity-game/static/js/453.57351f57.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.153b6cc0.js"
+  ]
+}
